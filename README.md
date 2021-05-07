@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @warut92
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in traditional music, Esperanto and programing.
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me ...
 
 <!---
