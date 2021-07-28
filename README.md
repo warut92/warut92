@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @warut92
-- 👀 I’m interested in traditional music, Esperanto and programing.
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me ...
+- 👋 Saluton, mi estas @warut92 !
+- 👀 Mi interesiĝas pri tradiciaj muzikoj, Esperanto kaj programado per simplaj programlingvoj.
+- 🌱 Nun mi lernas JavaScript
+- 📫 Ne kontaktu min ...
+
 
 <!---
 warut92/warut92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
