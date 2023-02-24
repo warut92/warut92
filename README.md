@@ -3,6 +3,8 @@
 - 👀 I am interested in traditional music, Esperanto language and programming.
 - 🌱 I still learn JavaScript. I am a beginner.
 
+---
+
 - 👋 Saluton, mi estas @warut92 !
 - 👀 Mi interesiĝas pri tradiciaj muzikoj, Esperanto kaj programado per simplaj programlingvoj.
 - 🌱 Nun mi lernas JavaScript
