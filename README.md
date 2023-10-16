@@ -1,5 +1,4 @@
 - 👋 Saluton, mi estas @warut92 !
-- 👀 Mi interesiĝas pri tradiciaj muzikoj, Esperanto kaj programado per simplaj programlingvoj.
 - 🌱 Nun mi lernas JavaScript
 
 <!---
