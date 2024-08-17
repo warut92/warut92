@@ -1,7 +1,7 @@
 - 👋 Saluton, mi estas @warut92 !
 - 🌱 Nun mi lernas JavaScript
 - ❤️ Mi sxatas Linux precipe Xubuntu.
-- 🖥 Mi uzis Atom, Pulsar, kaj nu VSCodium.
+- 🖥 Mi uzis Atom, Pulsar, kaj nun VSCodium.
 
 <!---
 warut92/warut92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
